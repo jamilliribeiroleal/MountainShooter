@@ -33,6 +33,21 @@ SPAWN_TIME = 4000
 WINDOW_WIDTH = 576
 WINDOW_HEIGHT = 324
 
+ENTITY_HEALTH = {
+    'Level1Bg0': 999,
+    'Level1Bg1': 999,
+    'Level1Bg2': 999,
+    'Level1Bg3': 999,
+    'Level1Bg4': 999,
+    'Level1Bg5': 999,
+    'Level1Bg6': 999,
+    'Player1': 300,
+    'Player2': 300,
+    'Enemy1': 50,
+    'Enemy2': 60,
+
+}
+
 #E
 EVENT_ENEMY = pygame.USEREVENT + 1
 ENTITY_SPEED = {
